@@ -19,10 +19,10 @@
 
 ### 経歴
 
-* SmartDrive 
+* ***株式会社 SmartDrive***
   * SmartDrive Cars の新規サービス事業開発に関わる。
   * 担当範囲
-    * プロダクト、プロジェクトマネージメント兼バックエンドエンジニア
+    * プロダクト、プロジェクトマネージメント、バックエンドエンジニア、エンジニア採用
   * 技術要素
     * Ruby on Rails(App server)
     * Golang(Api server)
@@ -30,8 +30,8 @@
     * GraphQL
     * Heroku
     * Aws
-* freee 共通認証基盤、freee運営
-  * 機能開発の運用に関わる。
+* ***freee株式会社***
+  * 決済基盤、共通認証基盤チーム
   * 担当範囲
     * 会計freee、給与freee、会社設立freee、開業freeeの共通認証基盤の運用、開発
     * パスワード強度計算、リスクベース認証等の設計と導入
@@ -43,8 +43,8 @@
     * RxJava(Android)
     * Golang(認証基盤APIサーバーの一部のendpoint)
     * aws(ec2, s3, cloud front, rds, sqs)
-* Buyma（グローバル） ECサイト(https://www.buyma.us/)、Enigmo運営
-  * サービスの立ち上げから運用まで関わる。
+* ***株式会社エニグモ***
+  * Buyma（グローバル） ECサイト(https://www.buyma.us/) の立ち上げから運用まで関わる。
   * 担当範囲
     * 決済周り（ポイント機能含む）
     * 為替レートに対応した決済、クレジットカード不正利用の検知システム導入等
@@ -63,8 +63,8 @@
   * 技術要素
     * Ruby on Rails
     * PHP
-* MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/)、リクルートライフスタイプ運営
-  * サービスの立ち上げから運用まで関わる。
+* ***リクルートライフスタイル（出向）***
+  * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/)の立ち上げから運用まで関わる。
   * 担当範囲
     * 決済周り（クーポン機能、ポイント機能含む）
   * 技術要素
