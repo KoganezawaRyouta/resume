@@ -1,9 +1,9 @@
 ## 職務経歴書
 
-* 氏名：　小金澤 良太
-* 性別：　男性
-* URL(github.io) : https://koganezawaryouta.github.io/resume
-* URL(github) : https://github.com/KoganezawaRyouta
+* 氏名: 小金澤 良太
+* 性別: 男性
+* github.io: https://koganezawaryouta.github.io/resume
+* github: https://github.com/KoganezawaRyouta
 * Twitter: @kogane5513
 
 ### 言語
