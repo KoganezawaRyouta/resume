@@ -2,22 +2,33 @@
 
 * 氏名: 小金澤 良太
 * 性別: 男性
-* github.io: https://koganezawaryouta.github.io/resume
 * github: https://github.com/KoganezawaRyouta
-* Twitter: @kogane5513
+* Twitter: https://twitter.com/kogane5513
+* medium: https://medium.com/@ryoutakogaenzawa
+* qiita: https://qiita.com/kogane-ameari
+* slide: https://slides.com/ryotakogaenzawa
 
 ### 言語
-
+* Golang(2年)
+  * fasthttp, gin, grom
+* Ruby(5年)
+  * Ruby on Rails
 * JAVA(６年)
   * Struts, Spring, seasar2, hibernate
 * PHP(2年)
   * Zend Framework、Smarty
-* Ruby(4年)
-  * Ruby on Rails
-* Golang(2年)
-  * fasthttp, gin, grom
 
 ### 経歴
+
+* ***株式会社 マネーフォワードフィナンシャル***
+  * 仮想通貨取引所の立ち上げ
+  * 担当範囲
+    * Wallet開発チームリーダー: ホット・コールドウォレット開発業務
+  * 技術要素
+    * Golang
+    * Bitcoin(node clien: bitcoin core)
+    * Bitcoin cash(node clien: bitcoin abc)
+    * Ethereum (node clien: parity ethereum)
 
 * ***株式会社 SmartDrive***
   * SmartDrive Cars の新規サービス事業開発に関わる。
@@ -30,6 +41,7 @@
     * GraphQL
     * Heroku
     * Aws
+
 * ***freee株式会社***
   * 決済基盤、共通認証基盤チーム
   * 担当範囲
@@ -43,6 +55,7 @@
     * RxJava(Android)
     * Golang(認証基盤APIサーバーの一部のendpoint)
     * aws(ec2, s3, cloud front, rds, sqs)
+
 * ***株式会社エニグモ***
   * Buyma（グローバル） ECサイト(https://www.buyma.us/) の立ち上げから運用まで関わる。
   * 担当範囲
@@ -54,6 +67,7 @@
     * Ruby on Rails
     * teraform
     * aws(ec2, s3, cloud front, rds, sqs)
+
 * Buyma（国内版） ECサイト(http://www.buyma.com/)、Enigmo運営
   * 機能開発の運用に関わる。
   * 担当範囲
@@ -63,6 +77,7 @@
   * 技術要素
     * Ruby on Rails
     * PHP
+
 * ***リクルートライフスタイル（出向）***
   * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/)の立ち上げから運用まで関わる。
   * 担当範囲
