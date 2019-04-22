@@ -1,5 +1,6 @@
 ## 職務経歴書
 
+### Profile
 * 氏名: 小金澤 良太
 * 性別: 男性
 * github: https://github.com/KoganezawaRyouta
@@ -7,6 +8,8 @@
 * medium: https://medium.com/@ryoutakogaenzawa
 * qiita: https://qiita.com/kogane-ameari
 * slide: https://slides.com/ryotakogaenzawa
+
+---
 
 ### 言語
 * Golang(2年)
@@ -17,6 +20,8 @@
   * Struts, Spring, seasar2, hibernate
 * PHP(2年)
   * Zend Framework、Smarty
+
+---
 
 ### 経歴
 
@@ -29,7 +34,7 @@
     * Bitcoin(node clien: bitcoin core)
     * Bitcoin cash(node clien: bitcoin abc)
     * Ethereum (node clien: parity ethereum)
-
+---
 * ***株式会社 SmartDrive***
   * SmartDrive Cars の新規サービス事業開発に関わる。
   * 担当範囲
@@ -41,7 +46,7 @@
     * GraphQL
     * Heroku
     * Aws
-
+---
 * ***freee株式会社***
   * 決済基盤、共通認証基盤チーム
   * 担当範囲
@@ -55,7 +60,7 @@
     * RxJava(Android)
     * Golang(認証基盤APIサーバーの一部のendpoint)
     * aws(ec2, s3, cloud front, rds, sqs)
-
+---
 * ***株式会社エニグモ***
   * Buyma（グローバル） ECサイト(https://www.buyma.us/) の立ち上げから運用まで関わる。
   * 担当範囲
@@ -77,7 +82,7 @@
   * 技術要素
     * Ruby on Rails
     * PHP
-
+---
 * ***リクルートライフスタイル（出向）***
   * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/)の立ち上げから運用まで関わる。
   * 担当範囲
@@ -95,7 +100,7 @@
   * 都市計画情報登録システム開発
   * 台帳・帳簿登録閲覧システム開発
   * 運航会社航空機管理システム開発
-
+---
 ## 開発で注力してきたこと
 
 - 可読性、メンテナンス性を重視したコードを書く
