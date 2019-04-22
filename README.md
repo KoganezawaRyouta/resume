@@ -12,7 +12,7 @@
 ---
 
 ### 言語
-* Golang(2年)
+* Golang(3年)
   * fasthttp, gin, grom
 * Ruby(5年)
   * Ruby on Rails
@@ -29,12 +29,17 @@
   * 仮想通貨取引所の立ち上げ
   * 担当範囲
     * Wallet開発チームリーダー: ホット・コールドウォレット開発業務
+      * HDWalletによる各種鍵の生成、管理(btc, bch, eth)
+      * MultiSigアドレスの生成と署名(btc, bch)
+      * Shamirよる鍵の分散と署名(eth)
   * 技術要素
     * Golang
-    * Bitcoin(node clien: bitcoin core)
-    * Bitcoin cash(node clien: bitcoin abc)
-    * Ethereum (node clien: parity ethereum)
+    * Bitcoin(Node clien: bitcoin core)
+    * Bitcoin cash(Node clien: bitcoin abc)
+    * Ethereum (Node clien: parity ethereum)
+
 ---
+
 * ***株式会社 SmartDrive***
   * SmartDrive Cars の新規サービス事業開発に関わる。
   * 担当範囲
