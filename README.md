@@ -67,7 +67,7 @@
     * aws(ec2, s3, cloud front, rds, sqs)
 ---
 * ***株式会社エニグモ***
-  * Buyma（グローバル） ECサイト(https://www.buyma.us/) の立ち上げから運用まで関わる。
+  * Buyma（グローバル） ECサイト(https://www.buyma.us/)  の立ち上げから運用まで関わる。
   * 担当範囲
     * 決済周り（ポイント機能含む）
     * 為替レートに対応した決済、クレジットカード不正利用の検知システム導入等
@@ -78,7 +78,7 @@
     * teraform
     * aws(ec2, s3, cloud front, rds, sqs)
 
-* Buyma（国内版） ECサイト(http://www.buyma.com/)、Enigmo運営
+* Buyma（国内版） ECサイト(http://www.buyma.com/) Enigmo運営
   * 機能開発の運用に関わる。
   * 担当範囲
     * 決済周り（ポイント機能等）
@@ -89,7 +89,7 @@
     * PHP
 ---
 * ***リクルートライフスタイル（出向）***
-  * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/)の立ち上げから運用まで関わる。
+  * MARQREL (マルクレル) ECサイト(https://www.marqrel.jp/) の立ち上げから運用まで関わる。
   * 担当範囲
     * 決済周り（クーポン機能、ポイント機能含む）
   * 技術要素
