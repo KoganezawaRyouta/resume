@@ -34,9 +34,9 @@
       * Shamirよる鍵の分散と署名(eth)
   * 技術要素
     * Golang
-    * Bitcoin(Node clien: bitcoin core)
-    * Bitcoin cash(Node clien: bitcoin abc)
-    * Ethereum (Node clien: parity ethereum)
+    * Bitcoin(Node clien: [bitcoin core](https://github.com/bitcoin/bitcoin) )
+    * Bitcoin cash(Node clien: [bitcoin abc](https://github.com/Bitcoin-ABC/bitcoin-abc) )
+    * Ethereum (Node clien: [parity ethereum](https://github.com/paritytech/parity-ethereum) )
 
 ---
 
