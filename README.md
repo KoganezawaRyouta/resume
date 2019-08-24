@@ -28,11 +28,10 @@
 * ***[(株)DataChain](https://datachain.jp/)***
   * 情報銀行
   * 担当範囲
-    * BackEnd
-      * 各ブロックチェーン上で動作するWebアプリケーションの開発
-        * L1:RootChain（ETH）
-        * L2:ChildChain（UTXO base on Plasma）
-        * L3:ChildChain（Account base on Tendermint）
+    * 各ブロックチェーン上で動作するWebアプリケーションの開発
+      * L1:RootChain（ETH）
+      * L2:ChildChain（UTXO base on Plasma）
+      * L3:ChildChain（Account base on Tendermint）
   * 技術要素
     * Golang
     * GraphQL
