@@ -38,7 +38,7 @@
     * GraphQL
     * Aws
     * Ethereum (Node clien: [Geth](https://github.com/ethereum/go-ethereum) )
-    * PLasma MoreVP [Spec](https://github.com/omisego/research/blob/master/plasma/plasma-mvp/specifications/morevp.md)
+    * Plasma MoreVP [Spec](https://github.com/omisego/research/blob/master/plasma/plasma-mvp/specifications/morevp.md)
     * Tendermint [Spec](https://github.com/tendermint/tendermint/tree/master/docs/spec)
 ---
 
