@@ -25,7 +25,7 @@
 
 ### 経歴
 
-* ***(株)DataCahin***
+* ***[(株)DataChain](https://datachain.jp/)***
   * 情報銀行
   * 担当範囲
     * BackEnd
