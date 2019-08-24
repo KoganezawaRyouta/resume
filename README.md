@@ -25,6 +25,23 @@
 
 ### 経歴
 
+* ***(株)DataCahin***
+  * 情報銀行
+  * 担当範囲
+    * BackEnd
+      * 各ブロックチェーン上で動作するWebアプリケーションの開発
+        * L1:RootChain（ETH）
+        * L2:ChildChain（UTXO base on Plasma）
+        * L3:ChildChain（Account base on Tendermint）
+  * 技術要素
+    * Golang
+    * GraphQL
+    * Aws
+    * Ethereum (Node clien: [Geth](https://github.com/ethereum/go-ethereum) )
+    * PLasma MoreVP [Spec](https://github.com/omisego/research/blob/master/plasma/plasma-mvp/specifications/morevp.md)
+    * Tendermint [Spec](https://github.com/tendermint/tendermint/tree/master/docs/spec)
+---
+
 * ***株式会社 マネーフォワードフィナンシャル***
   * 仮想通貨取引所の立ち上げ
   * 担当範囲
