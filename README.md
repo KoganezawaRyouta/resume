@@ -29,6 +29,7 @@
   * 情報銀行
   * 担当範囲
     * 各ブロックチェーン上で動作するWebアプリケーションの開発
+    * 各ブロックチェーン上で動作するiOSアプリケーション(Wallet)の開発
       * L1:RootChain（ETH）
       * L2:ChildChain（UTXO base on Plasma）
       * L3:ChildChain（Account base on Tendermint）
