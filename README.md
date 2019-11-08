@@ -3,7 +3,7 @@
 ### Profile
 * 氏名: 小金澤 良太
 * 性別: 男性
-* My-readme: https://github.com/KoganezawaRyouta/manager-readme
+* My-readme: https://github.com/KoganezawaRyouta/managers-readme
 * Medium: https://medium.com/@ryoutakogaenzawa
 * Slides: https://slides.com/ryotakogaenzawa
 * Qiita: https://qiita.com/kogane-ameari
