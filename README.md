@@ -49,13 +49,15 @@
 ---
 ### 経歴
 * ***[(株)BitFlyer](https://bitflyer.com/)***
-* プロジェクトマネージャー
-  * ProductManagementのサポート
-  * ProjectManagement
-  * 開発チームとのScrum
+***プロジェクトマネージャー***
+ * ProductManagementのサポート
+ * ProjectManagement
+ * ウォレット開発チームとのScrum
 
 ---
 * ***[(株)Ginco](https://ginco.co.jp/)***
+
+***金融部部長***
 * プロダクトマネージャー業務
   * プロダクト開発戦略の選定
   * UXリサーチ、仮説検証、課題を抽出
@@ -76,6 +78,7 @@
 
 ---
 * ***[(株)DataChain](https://datachain.jp/)***
+***LeadEngineer***
   * 情報銀行
   * 担当範囲
     * 各ブロックチェーン上で動作するWebアプリケーションの開発
@@ -93,9 +96,10 @@
 ---
 
 * ***株式会社 マネーフォワードフィナンシャル***
+***WalletTeamLead***
   * 仮想通貨取引所の立ち上げ
   * 担当範囲
-    * Wallet開発チームリーダー: ホット・コールドウォレット開発業務
+    *　ホット・コールドウォレット開発業務
       * HDWalletによる各種鍵の生成、管理(btc, bch, eth)
       * MultiSigアドレスの生成と署名(btc, bch)
       * Shamirよる鍵の分散と署名(eth)
