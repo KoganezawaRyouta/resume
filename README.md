@@ -10,6 +10,27 @@
 
 ---
 
+## ProductManagement
+* プロダクト開発戦略の選定
+* UXリサーチ、仮説検証、課題を抽出
+* カスタマージャーニーマップ
+* Value Stream Mapping
+* KPI運用
+* PRD作成
+
+## ProjectManagement
+* スプリントプランニング
+* デイリースクラム
+* スプリントレビュー
+* 開発業務における振り返り（KPT）
+* 障害対応における振り返り（ポストモーテム)
+
+## PeopleManagement
+* 1on1
+* 評価
+* 目標管理
+
+## Programming
 ### 言語
 * Golang(3年)
   * fasthttp, gin, grom
@@ -20,8 +41,20 @@
 * PHP(2年)
   * Zend Framework、Smarty
 
+### Bockchain
+* Bitcoin(Node clien: [bitcoin core](https://github.com/bitcoin/bitcoin) )
+* Bitcoin cash(Node clien: [bitcoin abc](https://github.com/Bitcoin-ABC/bitcoin-abc) )
+* Ethereum (Node clien: [parity ethereum](https://github.com/paritytech/parity-ethereum) )
+
 ---
 ### 経歴
+* ***[(株)BitFlyer](https://bitflyer.com/)***
+* プロジェクトマネージャー
+* ProductManagementのサポート
+* ProjectManagement
+* 開発チームとのScrum
+
+---
 * ***[(株)Ginco](https://ginco.co.jp/)***
 * プロダクトマネージャー業務
  * プロダクト開発戦略の選定
@@ -48,8 +81,8 @@
     * 各ブロックチェーン上で動作するWebアプリケーションの開発
     * 各ブロックチェーン上で動作するiOSアプリケーション(Wallet)の開発
       * L1:RootChain（ETH）
-      * L2:ChildChain（UTXO base on Plasma）
-      * L3:ChildChain（Account base on Tendermint）
+      * L2:Second Layer（UTXO base on Plasma）
+      * L3:Third Layer（Account base on Tendermint）
   * 技術要素
     * Golang
     * GraphQL
