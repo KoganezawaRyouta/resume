@@ -10,7 +10,7 @@
 
 ---
 
-## ProductManagement Skill
+## ProductManagement Skills
 * プロダクト開発戦略の選定
 * UXリサーチ、仮説検証、課題を抽出
 * カスタマージャーニーマップ
@@ -18,19 +18,19 @@
 * KPI運用
 * PRD作成
 
-## ProjectManagement Skill
+## ProjectManagement Skills
 * スプリントプランニング
 * デイリースクラム
 * スプリントレビュー
 * 開発業務における振り返り（KPT）
 * 障害対応における振り返り（ポストモーテム)
 
-## PeopleManagement Skill
+## PeopleManagement Skills
 * 1on1
 * 評価
 * 目標管理
 
-## Programming Skill
+## Programming Skills
 ### 言語
 * Golang(3年)
   * fasthttp, gin, grom
