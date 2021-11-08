@@ -54,6 +54,9 @@
  * ProjectManagement
  * ウォレット開発チームとのScrum
 
+* ***[副業:Fintech系企業]***
+  *　認証基盤の拡張(Oath2.0, OpenIDConnect)
+
 ---
 * ***[(株)Ginco](https://ginco.co.jp/)***
 ***金融部部長***
