@@ -5,7 +5,6 @@
 * 性別: 男性
 * My-readme: https://github.com/KoganezawaRyouta/managers-readme
 * Medium: https://medium.com/@ryoutakogaenzawa
-* Slides: https://slides.com/ryotakogaenzawa
 * Qiita: https://qiita.com/kogane-ameari
 * Twitter: https://twitter.com/kogane5513
 
@@ -22,9 +21,27 @@
   * Zend Framework、Smarty
 
 ---
-
 ### 経歴
+* ***[(株)Ginco](https://ginco.co.jp/)***
+* プロダクトマネージャー業務
+ * プロダクト開発戦略の選定
+ * UXリサーチ、仮説検証、課題を抽出
+ * カスタマージャーニーマップ
+ * Value Stream Mapping
+ * KPI運用
+ * PRD作成
+ * 統合検証シナリオの作成
+* プロジェクトマネージャー業務
+ * 開発スケジュール策定
+ * デイリー進捗・課題共有MTG
+ * 週次進捗・課題共有MTG
+ * 開発業務における振り返り（KPT）
+ * 障害対応における振り返り（ポストモーテム）
+* エンジニアのピープルマネジメント
+ * 1on1
+ * 目標管理
 
+---
 * ***[(株)DataChain](https://datachain.jp/)***
   * 情報銀行
   * 担当範囲
