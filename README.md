@@ -94,7 +94,7 @@
     * Plasma MoreVP [Spec](https://github.com/omisego/research/blob/master/plasma/plasma-mvp/specifications/morevp.md)
     * Tendermint [Spec](https://github.com/tendermint/tendermint/tree/master/docs/spec)
 
-* [副業:暗号資産取引所] 取引所立ち上がに向けて、HotWallet/ColdWallet設計に関する技術支援
+* [副業:暗号資産取引所] 取引所立ち上げに向けて、HotWallet/ColdWallet設計に関する技術支援
 
 ---
 
