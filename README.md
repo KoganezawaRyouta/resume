@@ -46,15 +46,21 @@
 * Bitcoin cash(Node clien: [bitcoin abc](https://github.com/Bitcoin-ABC/bitcoin-abc) )
 * Ethereum (Node clien: [parity ethereum](https://github.com/paritytech/parity-ethereum) )
 
+* ***[副業:Fintech系企業]***
+* 認証基盤の拡張(Oath2.0, OpenIDConnect)
+* 暗号資産取引所のWallet設計・開発サポート
+
 ---
 ### 経歴
+* ***[メルコイン]()***
+***プロダクトマネージャー***
+ * ProductManagement業務
+
 * ***[(株)BitFlyer](https://bitflyer.com/)***
 ***プロジェクトマネージャー***
  * ProductManagementのサポート
  * ProjectManagement
  * ウォレット開発チームとのScrum
-
-*[副業:Fintech系企業]　認証基盤の拡張(Oath2.0, OpenIDConnect)
 
 ---
 * ***[(株)Ginco](https://ginco.co.jp/)***
