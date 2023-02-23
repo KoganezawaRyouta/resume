@@ -56,6 +56,7 @@
 ***プロダクトマネージャー***
  * ProductManagement業務
 
+---
 * ***[(株)BitFlyer](https://bitflyer.com/)***
 ***プロジェクトマネージャー***
  * ProductManagementのサポート
