@@ -49,6 +49,7 @@
 * ***[副業:Fintech系企業]***
 * 認証基盤の拡張(Oath2.0, OpenIDConnect)
 * 暗号資産取引所のWallet設計・開発サポート
+* SecurityToken　開発系プロジェクト
 
 ---
 ### 経歴
