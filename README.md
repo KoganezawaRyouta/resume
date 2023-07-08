@@ -32,9 +32,9 @@
 
 ## Programming Skills
 ### 言語
-* Golang(3年)
+* Golang(4年)
   * fasthttp, gin, grom
-* Ruby(5年)
+* Ruby(6年)
   * Ruby on Rails
 * JAVA(６年)
   * Struts, Spring, seasar2, hibernate
