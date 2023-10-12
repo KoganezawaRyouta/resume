@@ -1,8 +1,6 @@
 ## 職務経歴書
 
 ### Profile
-* 氏名: 小金澤 良太
-* 性別: 男性
 * My-readme: https://github.com/KoganezawaRyouta/managers-readme
 * Medium: https://medium.com/@ryoutakogaenzawa
 * Qiita: https://qiita.com/kogane-ameari
