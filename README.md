@@ -3,7 +3,6 @@
 ### Profile
 * My-readme: https://github.com/KoganezawaRyouta/managers-readme
 * Medium: https://medium.com/@ryoutakogaenzawa
-* Qiita: https://qiita.com/kogane-ameari
 * Twitter: https://twitter.com/kogane5513
 
 ---
